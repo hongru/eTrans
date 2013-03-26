@@ -1,0 +1,16 @@
+{
+    "name":"ietao/libs/etrans",
+    "version":"0.0.1",
+    "description":"ETao H5 for phone",
+    "license":"MIT",
+    "author":"etao UX",
+    "dependencies":{
+        
+    },
+    "sources":[
+        "http://spm.assets.m.etao.net:8001"
+    ],
+    "output":{
+        "etrans.js":"."
+    }
+}
